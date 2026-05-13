@@ -45,7 +45,7 @@ The dataset contains:
 
 ---
 
-## Key Insights
+## Project Highlights
 - West region generated the highest sales.
 - Technology category contributed the highest revenue.
 - November recorded the highest monthly sales.
